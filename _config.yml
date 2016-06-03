@@ -8,13 +8,13 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : 张海豹的博客
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Seal Zhang
+  email : zhangchuheng123@live.com
+  github : zhangchuheng123
+  twitter : zhangchuheng123
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -84,18 +84,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
-    facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
-      colorscheme: light
-    duoshuo :
-      short_name : jekyllbootstrap
+      short_name : zhangchuheng123
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
@@ -134,3 +123,5 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+  img_url: /assets/images
+  file_url: /assets/files
