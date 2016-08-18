@@ -5,6 +5,8 @@ tagline: 吉他 旅行 摄影 生活
 ---
 {% include JB/setup %}
 
+![Minion](http://zhangchuheng123.github.io/images/2016-08-18-photo.jpg)
+
 ## Welcome to my Homepage!
 
 I was born in a famous historic and cultural city, **Jingzhou**, which, in history, is a stronghold. I moved to Chengdu with my family at the age of ten, and had my junior and senior high school life in **Chengdu Foreign Language School(CDFLS)**. In 2016, I obtained a bachelor's degree of science in department of Physics, **Nanjing University**. Now, I'm a PhD student in Institute for Interdisciplinary Information Sciences (IIIS), **Tsinghua University**.
