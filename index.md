@@ -5,7 +5,7 @@ tagline: 吉他 旅行 摄影 生活
 ---
 {% include JB/setup %}
 
-![Minion](/images/2016-08-18-photo.jpg)
+![Minion](/assets/images/2016-08-18-photo.jpg)
 
 ### Welcome to my Homepage!
 
