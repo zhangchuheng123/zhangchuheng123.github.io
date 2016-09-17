@@ -26,7 +26,7 @@ I'm interested in so many fields currently which include (surely, but not only i
 ### 本站的一些固定页面
 <ul class="posts">
   {% for page in site.pages %}
-    <li> &raquo; <a href="{{ BASE_PATH }}{{ page.url }}">{{ page.title }}</a></li>
+    <li> <a href="{{ BASE_PATH }}{{ page.url }}">{{ page.title }}</a></li>
   {% endfor %}
 </ul>
 
