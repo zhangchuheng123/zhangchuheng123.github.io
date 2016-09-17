@@ -23,8 +23,14 @@ I'm interested in so many fields currently which include (surely, but not only i
 
 访问老站点请点击[这里](http://zhangchuheng.sinaapp.com)，目前正在陆陆续续搬迁。由于本人时间有限，搬迁可能会持续很久……
 
+### 本站的一些固定页面
+<ul class="posts">
+  {% for page in site.pages %}
+    <li> &raquo; <a href="{{ BASE_PATH }}{{ page.url }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
 
-### 最近写的东西：
+### 最近写的东西
 
 <ul class="posts">
   {% for post in site.posts %}
