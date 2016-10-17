@@ -129,3 +129,7 @@ NOTICE: The resources are for the convenience of academic use. If there's infrin
 > [Signal and Systems - Slides 6](/assets/files/2016-10-17-Signal-and-Systems-6.pdf)
 
 > [Signal and Systems - Slides 7](/assets/files/2016-10-17-Signal-and-Systems-7.pdf)
+
+### A Latex Class(.cls) for Common Use
+
+> [SealZhang.cls](/assets/files/2016-10-17-SealZhang.cls)
