@@ -5,7 +5,7 @@ tagline: Works
 ---
 {% include JB/setup %}
 
-### CQI博资考试备考小组的组内讨论PPT
+### CQI Preparation for Qualifier Test
 
 > 电动力学知识点总结
 [曾培的电动力学知识点总结（PDF）](/assets/files/2016-09-02-electrodynamics.pdf)

@@ -77,16 +77,23 @@ tagline: Works
 
 > [UPC2013 (November, 18, 2013)](/assets/files/2016-10-16-UPC.pdf)
 
-### Talks and Reports
+### Talks, Reports and Papers
 
-> [Group Meeting Report at Prof. Wang Zhenlin's Group - Probing the Ultimate Limit of Plasmonic Enhancement (March, 22, 2015)](/assets/files/2016-10-17-wang-zhenlin-group-meeting.pdf)
+> [A Rejected Paper - Hybrid Zeroth- and First-Order Strategies for Training Neural Networks (January, 7, 2016)](/assets/files/2016-10-17-network-training.pdf)
 
-> [Course Paper of Mechanics - Levitation (February, 21, 2014)](/assets/files/2016-10-16-Mechanics.pdf)
+> [Course Paper of Appreciation of Vocal Music - Comparison of Opera and Musical (January, 1, 2016)](/assets/files/2016-10-17-Appreciation-of-vocal-music.pdf)
 
-> [Course Report of Electrodynamics - Polarization in Surface Plasmon (January, 20, 2015)](/assets/files/2016-10-17-electrodynamics-report.pdf)
+> [Course Report of Introduction to Mao Zedong's Theory (May, 1, 2015)](/assets/files/2016-10-17-MaZedong.pdf)
 
 > [Course Report of Modern Photonics - Simulation of Fresnel Diffraction (April, 8, 2015)](/assets/files/2016-10-17-modern-photonics.pdf)
 
+> [Group Meeting Report at Prof. Wang Zhenlin's Group - Probing the Ultimate Limit of Plasmonic Enhancement (March, 22, 2015)](/assets/files/2016-10-17-wang-zhenlin-group-meeting.pdf)
+
+> [Course Report of Electrodynamics - Polarization in Surface Plasmon (January, 20, 2015)](/assets/files/2016-10-17-electrodynamics-report.pdf)
+
+> [Opening Report of Student Research Training Program - Superresolution in Fresnel Incoherent Holography (March, 17, 2013)](/assets/files/2016-10-17-SRTP-summary.pdf)
+
+> [Course Paper of Mechanics - Levitation (February, 21, 2013)](/assets/files/2016-10-16-Mechanics.pdf)
 
 ## Extracurricular Activities
 
@@ -96,14 +103,28 @@ tagline: Works
 
 > [Social Practice Report - Oral History of a Century for Physics Department of Nanjing University](/assets/files/2016-10-16-social-practice-report2.pdf)
 
+### ZHIDIAN (a Magzine)
+
+> [ZHIDIAN - Special Issue in the Summer, 2013](/assets/files/2016-10-17-ZHIDIAN-summer.pdf)
+I did the typesetting part of this issue.
+
+> [ZHIDIAN - Issue 25, 2013](/assets/files/2016-10-17-ZHIDIAN-25.pdf)
+I did the typesetting part of this issue and part of the overall planning.
+
 ### Presentations
 
 > [Talk on Shorthand Notation (March, 19, 2015)](/assets/files/2016-10-16-funx.pdf)
 
-> [Lecture on Adobe Illustrator Tutorial (October, 29, 2013)](/assets/files/2016-10-16-SRTP-Lecture.pdf)
-
 > [Introduction to ZHIDIAN during the Visiting to USTC (May, 10, 2014)](/assets/files/2016-10-16-ZHIDIAN.pdf)
+
+> [Kick Off Meeting of ORAL HISTORY OF PHYSICS DEPARTMENT OF NJU (July, 6, 2014)](/assets/files/2016-10-16-oral-history.pdf)
+
+> [Election of ZHIDIAN (Febuary, 21, 2014)](/assets/files/2016-10-17-ZHIDIAN-election.pdf)
 
 > [Lecture on Adobe Photoshop/Illustrator/Indesign Tutorial (November, 5, 2013)](/assets/files/2016-10-16-ZHIDIAN-Lecture.pdf)
 
-> [Kick Off Meeting of ORAL HISTORY OF PHYSICS DEPARTMENT OF NJU (July, 6, 2014)](/assets/files/2016-10-16-oral-history.pdf)
+> [Lecture on Adobe Illustrator Tutorial (October, 29, 2013)](/assets/files/2016-10-16-SRTP-Lecture.pdf)
+
+### Poster and Other Adivertising Design
+
+There are a lot of images, click [here](/my_pages/design-works) to see. 
