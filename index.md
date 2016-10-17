@@ -21,14 +21,29 @@ I'm interested in so many fields currently which include (surely, but not only i
 
 ### 关于老站点
 
-访问老站点请点击[这里](http://zhangchuheng.sinaapp.com)，目前正在陆陆续续搬迁。由于本人时间有限，搬迁可能会持续很久……
+访问老站点请点击[这里](http://zhangchuheng.sinaapp.com)（目前老站点已不能访问），目前正在陆陆续续搬迁。由于本人时间有限，搬迁可能会持续很久……
 
 ### 本站的一些固定页面
-<ul class="posts">
-  {% for page in site.pages %}
-    <li> <a href="{{ BASE_PATH }}{{ page.url }}">{{ page.title }}</a></li>
-  {% endfor %}
-</ul>
+
+#### 清单与列表
+
+[我的书单](/my_pages/list-of-books)
+
+[我的影单](/my_pages/list-of-movies)
+
+[我的歌单](/my_pages/list-of-songs)
+
+[我吃过的餐馆](/my_pages/list-of-restaurants)
+
+[我去过的地方](/my_pages/list-of-trips)
+
+#### 学习与工作
+
+[本科期间工作成果](/my_pages/undergraduate-works)
+
+[研究生期间工作成果](/my_pages/graduate-works)
+
+[学术资料](/my_pages/academic-resources)
 
 ### 最近写的东西
 
