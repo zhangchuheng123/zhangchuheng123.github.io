@@ -7,6 +7,15 @@ tagline: 资料
 
 NOTICE: The resources are for the convenience of academic use. If there's infringement of copyright, relevant contents will be remove after informing.
 
+### Quantum Entanglement and Quantum Error Correction
+
+>[Textbook: Quantum Information Meets Quantum Matter](/assets/files/2016-10-24-Quantum-Information-Meets-Quantum-Matter.pdf)
+This is a copy from arXiv, you can also find it [here](arxiv.org/abs/1508.02595).
+
+> [Slide 1](/assets/files/2016-10-24-Quantum-Entanglement-Lecture1.pdf)
+
+> [Slide 2](/assets/files/2016-10-24-Quantum-Entanglement-Lecture2.pdf)
+
 ### Quantum Mechanics
 
 > [J. J. Sakurai - Modern Quantum Mechanies](/assets/files/2016-10-17-Sakurai.pdf)
