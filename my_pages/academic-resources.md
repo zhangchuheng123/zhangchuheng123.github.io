@@ -9,9 +9,9 @@ NOTICE: The resources are for the convenience of academic use. If there's infrin
 
 ### Quantum Mechanics
 
-> [J. J. Sakurai - Modern Quantum Mechanies](/assets/files/2016-10-17-Saurai.pdf)
+> [J. J. Sakurai - Modern Quantum Mechanies](/assets/files/2016-10-17-Sakurai.pdf)
 
-> [J. J. Sakurai - Modern Quantum Mechanies Solution Manual](/assets/files/2016-10-17-Saurai-Answer.pdf)
+> [J. J. Sakurai - Modern Quantum Mechanies Solution Manual](/assets/files/2016-10-17-Sakurai-Answer.pdf)
 
 > [Exams in Nanjing University](/assets/files/2016-10-16-quantum-mechanics-exam.pdf)
 
