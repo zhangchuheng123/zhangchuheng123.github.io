@@ -140,6 +140,10 @@ This is a copy from arXiv, you can also find it [here(http://arxiv.org/abs/1508.
 
 > [Signal and Systems - Slides 7](/assets/files/2016-10-17-Signal-and-Systems-7.pdf)
 
+### MATLAB Programming with COMSOL Livelink API (Chinese)
+
+> [Tutorial for MATLAB Programming with COMSOL Livelink API](/assets/files/2016-11-05-MATLAB-with-COMSOL.pdf)
+
 ### A Latex Class(.cls) for Common Use
 
 > [SealZhang.cls](/assets/files/2016-10-17-SealZhang.cls)
