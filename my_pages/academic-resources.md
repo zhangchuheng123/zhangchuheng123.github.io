@@ -9,9 +9,7 @@ NOTICE: The resources are for the convenience of academic use. If there's infrin
 
 ### Quantum Entanglement and Quantum Error Correction
 
->[Textbook: Quantum Information Meets Quantum Matter](/assets/files/2016-10-24-Quantum-Information-Meets-Quantum-Matter.pdf)
-
-This is a copy from arXiv, you can also find it [here(http://arxiv.org/abs/1508.02595)](http://arxiv.org/abs/1508.02595).
+>[Textbook: Quantum Information Meets Quantum Matter](/assets/files/2016-10-24-Quantum-Information-Meets-Quantum-Matter.pdf) This is a copy from arXiv, you can also find it [here (http://arxiv.org/abs/1508.02595)](http://arxiv.org/abs/1508.02595).
 
 > [Slide 1](/assets/files/2016-10-24-Quantum-Entanglement-Lecture1.pdf)
 
