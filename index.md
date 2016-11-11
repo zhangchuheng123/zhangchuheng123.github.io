@@ -19,10 +19,6 @@ I'm interested in so many fields currently which include (surely, but not only i
 
 目前感兴趣的方向有：计算物理、量子计算、数字图像处理、机器学习、码代码、弹吉他、旅游………
 
-### 关于老站点
-
-访问老站点请点击[这里](http://zhangchuheng.sinaapp.com)（目前老站点已不能访问），目前正在陆陆续续搬迁。由于本人时间有限，搬迁可能会持续很久……
-
 ### 本站的一些固定页面
 
 #### 清单与列表
