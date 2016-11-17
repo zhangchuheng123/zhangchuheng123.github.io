@@ -9,17 +9,52 @@ NOTICE: The resources are for the convenience of academic use. If there's infrin
 
 ### Quantum Entanglement and Quantum Error Correction
 
->[Textbook: Quantum Information Meets Quantum Matter](/assets/files/2016-10-24-Quantum-Information-Meets-Quantum-Matter.pdf) This is a copy from arXiv, you can also find it [here (http://arxiv.org/abs/1508.02595)](http://arxiv.org/abs/1508.02595).
+>[Textbook: Quantum Information Meets Quantum Matter](/assets/files/2016-10-24-Quantum-Information-Meets-Quantum-Matter.pdf) 
+This is a copy from arXiv, you can also find it [here (http://arxiv.org/abs/1508.02595)](http://arxiv.org/abs/1508.02595).
 
 > [Slide 1](/assets/files/2016-10-24-Quantum-Entanglement-Lecture1.pdf)
 
 > [Slide 2](/assets/files/2016-10-24-Quantum-Entanglement-Lecture2.pdf)
 
-### Quantum Mechanics
+> [Slide 3](/assets/files/2016-11-16-Quantum-Entanglement-Lecture3.pdf)
+
+> [Slide 4](/assets/files/2016-11-16-Quantum-Entanglement-Lecture4.pdf)
+
+> [Slide 5](/assets/files/2016-11-16-Quantum-Entanglement-Lecture5.pdf)
+
+> [Slide 6](/assets/files/2016-11-16-Quantum-Entanglement-Lecture6.pdf)
+
+### Advanced Quantum Mechanics
 
 > [J. J. Sakurai - Modern Quantum Mechanies](/assets/files/2016-10-17-Sakurai.pdf)
 
 > [J. J. Sakurai - Modern Quantum Mechanies Solution Manual](/assets/files/2016-10-17-Sakurai-Answer.pdf)
+
+> [Advanced Quantum Mechanics - Lecture Note 0](/assets/files/2016-11-16-Advanced-QM-0.pdf) 
+About the course
+
+> [Advanced Quantum Mechanics - Lecture Note 1](/assets/files/2016-11-16-Advanced-QM-1.pdf) 
+Basic Concepts: Stern-Gerlach Experiment / Introduction to Hilbert Space
+
+> [Advanced Quantum Mechanics - Lecture Note 2](/assets/files/2016-11-16-Advanced-QM-2.pdf) 
+Basic Concepts: Eigenvalues and Eigenstates of Operator / Measurement / Uncertainty Relations
+
+> [Advanced Quantum Mechanics - Lecture Note 3](/assets/files/2016-11-16-Advanced-QM-3.pdf) 
+Basic Concepts: Representation Transformation / Position Space and Momentum Space
+
+> [Advanced Quantum Mechanics - Lecture Note 4](/assets/files/2016-11-16-Advanced-QM-4.pdf) 
+Quantum Kinetics: Time Evolution and Schrodinger Equation (Uncertainty Relation of Energy and Time)
+
+> [Advanced Quantum Mechanics - Lecture Note 5](/assets/files/2016-11-16-Advanced-QM-5.pdf) 
+Quantum Kinetics: Schrodinger Picture and Heisenburg Picture (Solution for 1D-SHO)
+
+> [Advanced Quantum Mechanics - Lecture Note 6](/assets/files/2016-11-16-Advanced-QM-6.pdf) 
+Quantum Kinetics: Further Discussion about SHO (Casimir Effect / Coherence State of SHO) / Schrodinger Eqution under Position Space and WKB approximation
+
+> [Advanced Quantum Mechanics - Lecture Note 6](/assets/files/2016-11-16-Advanced-QM-6.pdf) 
+Quantum Kinetics: Feynman Path Integral / Gauge Transformation
+
+### Quantum Mechanics
 
 > [Exams in Nanjing University](/assets/files/2016-10-16-quantum-mechanics-exam.pdf)
 
@@ -117,11 +152,6 @@ NOTICE: The resources are for the convenience of academic use. If there's infrin
 
 > [Electrodynamics - Slide 34](/assets/files/2016-10-17-Electrodynamics-34.pdf)
 
-
-### Theory of Marxism
-
-> [Summary for Exams](/assets/files/2016-10-16-Marxism.pdf)
-
 ### Signal and Systems
 
 > [Signal and Systems - Slides 1](/assets/files/2016-10-17-Signal-and-Systems-1.pdf)
@@ -137,3 +167,7 @@ NOTICE: The resources are for the convenience of academic use. If there's infrin
 > [Signal and Systems - Slides 6](/assets/files/2016-10-17-Signal-and-Systems-6.pdf)
 
 > [Signal and Systems - Slides 7](/assets/files/2016-10-17-Signal-and-Systems-7.pdf)
+
+### Theory of Marxism
+
+> [Summary for Exams](/assets/files/2016-10-16-Marxism.pdf)
