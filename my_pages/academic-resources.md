@@ -51,8 +51,33 @@ Quantum Kinetics: Schrodinger Picture and Heisenburg Picture (Solution for 1D-SH
 > [Advanced Quantum Mechanics - Lecture Note 6](/assets/files/2016-11-16-Advanced-QM-6.pdf) 
 Quantum Kinetics: Further Discussion about SHO (Casimir Effect / Coherence State of SHO) / Schrodinger Eqution under Position Space and WKB approximation
 
-> [Advanced Quantum Mechanics - Lecture Note 6](/assets/files/2016-11-16-Advanced-QM-6.pdf) 
+> [Advanced Quantum Mechanics - Lecture Note 7](/assets/files/2016-11-16-Advanced-QM-7.pdf) 
 Quantum Kinetics: Feynman Path Integral / Gauge Transformation
+
+> [Advanced Quantum Mechanics - Lecture Note 8](/assets/files/2016-11-16-Advanced-QM-8.pdf) 
+Quantum Kinetics: Gauge Transformation in Electromagnetism (AB Effect / Magnetic Monopole)
+
+> [Advanced Quantum Mechanics - Lecture Note 9](/assets/files/2016-11-16-Advanced-QM-9.pdf) 
+Angular Momentum: Rotation and Quantum Momentum / spin
+
+> [Advanced Quantum Mechanics - Lecture Note 10](/assets/files/2016-11-16-Advanced-QM-10.pdf) 
+Angular Momentum: Eigenvalue and Matrix Representation of Angular Momentum / Rotation Matrix
+
+> [Advanced Quantum Mechanics - Lecture Note 11](/assets/files/2016-11-16-Advanced-QM-11.pdf) 
+Angular Momentum: Orbital Angular Momentum / Addition of Angular Momentum (Spin-orbit Counpling and Two-electron Coupling)
+
+> [Advanced Quantum Mechanics - Lecture Note 12](/assets/files/2016-11-16-Advanced-QM-12.pdf) 
+Angular Momentum: Spin Coherent and Bell Inequality
+
+> [Advanced Quantum Mechanics - Lecture Note 13](/assets/files/2016-11-16-Advanced-QM-13.pdf) 
+Angular Momentum: Ensemble and Density Matrix
+
+> [Advanced Quantum Mechanics - Lecture Note 14](/assets/files/2016-11-16-Advanced-QM-14.pdf)
+Approximation Method: Time-Independent Perturbation (Nondegenerate Case and Degenerate Case)
+
+> [Advanced Quantum Mechanics - Lecture Note 15](/assets/files/2016-11-20-Advanced-QM-15.pdf) 
+
+> [Advanced Quantum Mechanics - Lecture Note 16](/assets/files/2016-11-20-Advanced-QM-16.pdf) 
 
 ### Quantum Mechanics
 
