@@ -86,32 +86,45 @@ Approximation Method: Interaction Picture and Perturbation / Scattering: Green F
 > [Exams in Nanjing University](/assets/files/2016-10-16-quantum-mechanics-exam.pdf)
 
 > [Quantum Mechanics - Lecture Note 1](/assets/files/2016-10-17-Quantum-1.pdf)
+The Origin of Quantum Mechanics 
 
 > [Quantum Mechanics - Lecture Note 2](/assets/files/2016-10-17-Quantum-2.pdf)
+Wave Function and Schrodinger's Equation 
 
 > [Quantum Mechanics - Lecture Note 3](/assets/files/2016-10-17-Quantum-3.pdf)
+Solution for One-dimensional Stationary Schrodinger's Equation
 
 > [Quantum Mechanics - Lecture Note 4](/assets/files/2016-10-17-Quantum-4.pdf)
+Observables and Representation Transformation 
 
 > [Quantum Mechanics - Lecture Note 5](/assets/files/2016-10-17-Quantum-5.pdf)
+Evolution of Observables and Symmetry 
 
 > [Quantum Mechanics - Lecture Note 6](/assets/files/2016-10-17-Quantum-6.pdf)
+Central Force Field
 
 > [Quantum Mechanics - Lecture Note 7](/assets/files/2016-10-17-Quantum-7.pdf)
+Electron Spin
 
 > [Quantum Mechanics - Lecture Note 8](/assets/files/2016-10-17-Quantum-8.pdf)
+Electron in Electromagnetic Field
 
 > [Quantum Mechanics - Lecture Note 9](/assets/files/2016-10-17-Quantum-9.pdf)
+Identical Particles
 
 > [Quantum Mechanics - Lecture Note 10](/assets/files/2016-10-17-Quantum-10.pdf)
+Approximation Methods: Time-independent Perturbation
 
-> [Quantum Mechanics - Lecture Note 10](/assets/files/2016-10-17-Quantum-11.pdf)
+> [Quantum Mechanics - Lecture Note 11](/assets/files/2016-10-17-Quantum-11.pdf)
+Approximation Methods: Time-dependent Perturbation (Quantum Transition)
 
 > [Quantum Mechanics - Lecture Note 12](/assets/files/2016-10-17-Quantum-12.pdf)
+Scattering
 
 ### Electrodynamics
 
 > [Electrodynamics - Slide 1](/assets/files/2016-10-17-Electrodynamics-1.pdf)
+Mathmatics: Vectors and Tensors
 
 > [Electrodynamics - Slide 2](/assets/files/2016-10-17-Electrodynamics-2.pdf)
 
