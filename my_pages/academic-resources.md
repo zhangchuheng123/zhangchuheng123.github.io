@@ -76,8 +76,10 @@ Angular Momentum: Ensemble and Density Matrix
 Approximation Method: Time-Independent Perturbation (Nondegenerate Case and Degenerate Case)
 
 > [Advanced Quantum Mechanics - Lecture Note 15](/assets/files/2016-11-20-Advanced-QM-15.pdf) 
+Approximation Method: Variational Method / Strong Coupling Schrodinger Equation (Yukawa Potential) / Time-dependent Perturbation
 
 > [Advanced Quantum Mechanics - Lecture Note 16](/assets/files/2016-11-20-Advanced-QM-16.pdf) 
+Approximation Method: Interaction Picture and Perturbation / Scattering: Green Function Approach
 
 ### Quantum Mechanics
 
