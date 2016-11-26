@@ -5,7 +5,7 @@ tagline: Resources
 ---
 {% include JB/setup %}
 
-NOTICE: The resources are for the convenience of academic use. If there's infringement of copyright, relevant contents will be remove after informing.
+NOTICE: The resources are for the convenience of academic use. Others should not download or read the resources without permission of authors. If there's infringement of copyright, relevant contents will be remove after informing.
 
 ### Quantum Entanglement and Quantum Error Correction
 
@@ -81,6 +81,8 @@ Approximation Method: Variational Method / Strong Coupling Schrodinger Equation 
 > [Advanced Quantum Mechanics - Lecture Note 16](/assets/files/2016-11-20-Advanced-QM-16.pdf) 
 Approximation Method: Interaction Picture and Perturbation / Scattering: Green Function Approach
 
+> [Advanced Quantum Mechanics - Lecture Note 16](/assets/files/2016-11-24-Advanced-QM-17.pdf) 
+
 ### Quantum Mechanics
 
 > [Exams in Nanjing University](/assets/files/2016-10-16-quantum-mechanics-exam.pdf)
@@ -127,70 +129,103 @@ Scattering
 Mathmatics: Vectors and Tensors
 
 > [Electrodynamics - Slide 2](/assets/files/2016-10-17-Electrodynamics-2.pdf)
+Basic Properties of Electromagnetic Field: Electric Field
 
 > [Electrodynamics - Slide 3](/assets/files/2016-10-17-Electrodynamics-3.pdf)
+Basic Properties of Electromagnetic Field: Magnetic Field
 
 > [Electrodynamics - Slide 4](/assets/files/2016-10-17-Electrodynamics-4.pdf)
+Basic Properties of Electromagnetic Field: Maxwell Equations in Vacuum
 
 > [Electrodynamics - Slide 5](/assets/files/2016-10-17-Electrodynamics-5.pdf)
+Basic Properties of Electromagnetic Field: Maxwell Equations in Dielectric
 
 > [Electrodynamics - Slide 6](/assets/files/2016-10-17-Electrodynamics-6.pdf)
+Basic Properties of Electromagnetic Field: Boundary Condition of Maxwell Equations in Dielectric Interface
 
 > [Electrodynamics - Slide 7](/assets/files/2016-10-17-Electrodynamics-7.pdf)
+Static Electric Field: Scalar Potential of Static Electric Field
 
 > [Electrodynamics - Slide 8](/assets/files/2016-10-17-Electrodynamics-8.pdf)
+Static Electric Field: Uniquness Theorem
 
 > [Electrodynamics - Slide 9](/assets/files/2016-10-17-Electrodynamics-9.pdf)
+Static Electric Field: Image Method
 
 > [Electrodynamics - Slide 10](/assets/files/2016-10-17-Electrodynamics-10.pdf)
+Static Electric Field: Laplace Equation / Seperation of Variables
 
 > [Electrodynamics - Slide 11](/assets/files/2016-10-17-Electrodynamics-11.pdf)
+Static Electric Field: Green Function
 
 > [Electrodynamics - Slide 12](/assets/files/2016-10-17-Electrodynamics-12.pdf)
+Static Electric Field: Electric Multipole Moment
 
 > [Electrodynamics - Slide 13](/assets/files/2016-10-17-Electrodynamics-13.pdf)
+Static Magnetic Field: Magnetic Vector Potential
 
 > [Electrodynamics - Slide 14](/assets/files/2016-10-17-Electrodynamics-14.pdf)
+Static Magnetic Field: Magnetic Scalar Potential 
 
 > [Electrodynamics - Slide 15](/assets/files/2016-10-17-Electrodynamics-15.pdf)
+Static Magnetic Field: Magnetic Multipole Moment
 
 > [Electrodynamics - Slide 16](/assets/files/2016-10-17-Electrodynamics-16.pdf)
+Static Magnetic Field: Aharonov-Bohm Effect
 
 > [Electrodynamics - Slide 17](/assets/files/2016-10-17-Electrodynamics-17.pdf)
+Static Magnetic Field: Electromagnetic Properties of Superconductor
 
 > [Electrodynamics - Slide 18](/assets/files/2016-10-17-Electrodynamics-18.pdf)
+Propagation of Electromagnetic Field: Plane Wave in Vacuum
 
 > [Electrodynamics - Slide 19](/assets/files/2016-10-17-Electrodynamics-19.pdf)
+Propagation of Electromagnetic Field: Reflection and Refraction
 
 > [Electrodynamics - Slide 20](/assets/files/2016-10-17-Electrodynamics-20.pdf)
+Propagation of Electromagnetic Field: Propagation in Dielectic 
 
 > [Electrodynamics - Slide 21](/assets/files/2016-10-17-Electrodynamics-21.pdf)
+Supplement: Dispersion of Dielectic
 
 > [Electrodynamics - Slide 22](/assets/files/2016-10-17-Electrodynamics-22.pdf)
+Supplement: Optical Waveguide
 
 > [Electrodynamics - Slide 23](/assets/files/2016-10-17-Electrodynamics-23.pdf)
+Resonator: Rectangular Metal Resonator
 
 > [Electrodynamics - Slide 24](/assets/files/2016-10-17-Electrodynamics-24.pdf)
+Resonator: Metal Waveguide
 
 > [Electrodynamics - Slide 25](/assets/files/2016-10-17-Electrodynamics-25.pdf)
+Radiation of Electromagnetic Wave: Scalar Potential and Vector Potential
 
 > [Electrodynamics - Slide 26](/assets/files/2016-10-17-Electrodynamics-26.pdf)
+Radiation of Electromagnetic Wave: Retarted Potential
 
 > [Electrodynamics - Slide 27](/assets/files/2016-10-17-Electrodynamics-27.pdf)
+Radiation of Electromagnetic Wave: Electric Dipole Radiation
 
 > [Electrodynamics - Slide 28](/assets/files/2016-10-17-Electrodynamics-28.pdf)
+Radiation of Electromagnetic Wave: Electric Dipole Radiation / Antenna
 
 > [Electrodynamics - Slide 29](/assets/files/2016-10-17-Electrodynamics-29.pdf)
+Special Relativity: Fundamental Experiments
 
 > [Electrodynamics - Slide 30](/assets/files/2016-10-17-Electrodynamics-30.pdf)
+Special Relativity: Basic Principles
 
 > [Electrodynamics - Slide 31](/assets/files/2016-10-17-Electrodynamics-31.pdf)
+Special Relativity: Time-space Theory
 
 > [Electrodynamics - Slide 32](/assets/files/2016-10-17-Electrodynamics-32.pdf)
+Special Relativity: Four-dimensional Vectors
 
 > [Electrodynamics - Slide 33](/assets/files/2016-10-17-Electrodynamics-33.pdf)
+Special Relativity: Relativity in Electrodynamics
 
 > [Electrodynamics - Slide 34](/assets/files/2016-10-17-Electrodynamics-34.pdf)
+Interaction between Charged Particle and Electromagnetic Field
 
 ### Signal and Systems
 
@@ -208,6 +243,15 @@ Mathmatics: Vectors and Tensors
 
 > [Signal and Systems - Slides 7](/assets/files/2016-10-17-Signal-and-Systems-7.pdf)
 
+### Atomic Physics
+
+> [J. Foot - Atomic Physics](/assets/files/2016-11-24-Foot-Atomic-physics.pdf)
+
+### Quantum Electronics
+
+> [Warren Nagourney - Quantum Electronics for Atomic Physics](/assets/files/2016-11-24-Warren-Nagourney-Quantum-Electronics-for-Atomic-Physics.pdf)
+
 ### Theory of Marxism
 
 > [Summary for Exams](/assets/files/2016-10-16-Marxism.pdf)
+
