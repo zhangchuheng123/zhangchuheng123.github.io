@@ -1,23 +1,66 @@
 ---
 layout: page
 title: 欢迎您！
-tagline: 吉他 旅行 摄影 生活
+tagline: 学术 吉他 旅行 摄影 生活
 ---
 {% include JB/setup %}
 
-![Minion](/assets/images/2016-08-18-photo.jpg)
+![](/assets/images/2016-11-26-homepage.jpg)
 
-### Welcome to my Homepage!
+### Welcome to My Warehouse!
 
-I was born in a famous historic and cultural city, **Jingzhou**, which, in history, is a stronghold. I moved to **Chengdu** with my family at the age of ten, and had my junior and senior high school life in **Chengdu Foreign Language School(CDFLS)**. In 2016, I obtained a bachelor's degree of science in department of Physics, **Nanjing University**. Now, I'm a PhD student in Institute for Interdisciplinary Information Sciences (IIIS), **Tsinghua University**.
+#### About Me
 
-I'm interested in so many fields currently which include (surely, but not only include) computational physics, quantum computing, digital image processing, machine learning, programming, playing guitar and traveling.
+* Born in **Jingzhou** - a historic and cultural city and a stronghold in histroy
+* Moved to **Chengdu** at the age of ten
+* Junior and Senior High School in **Chengdu Foreign Language School(CDFLS)**
+* Undergraduate in Department of Physics, **Nanjing University**
+* Graduate in Center of Quantum Information (CQI), Institute for Interdisciplinary Information Sciences (IIIS), **Tsinghua University**
 
-### 欢迎来到我的个人主页！
+#### Fields of Interest
 
-我出生于**湖北荆州**（嗯，是的，刘备借荆州的那个荆州），10岁随父母搬至**四川成都**（天府之国，也是刘备他们蜀国的地盘），初中和高中就读于**成都外国语学校**（外国语学校听起来就比较高端~），大学本科就读于**南京大学物理学院**。现在**清华大学交叉信息研究院**攻读博士学位。
+* Quantum Computing
+* Computational Physics
+* Digital Image Processing
+* Machine Learning
+* Programming
+* Guitar
+* Traveling
+* Photography
 
-目前感兴趣的方向有：计算物理、量子计算、数字图像处理、机器学习、码代码、弹吉他、旅游………
+#### Features of Warehouse
+
+* Summary of My Result of Work
+* Quick Retrieving of Academic Resources
+* Guitar TAB Abstract and Lyrics of the Songs
+* Memos of My Life
+
+### 欢迎来到我的仓库！
+
+#### 关于我
+
+* 我是湖北荆州人，也是四川成都人
+* 初高中就读于**成都外国语学校**
+* 本科就读于**南京大学**-物理学院
+* 博士研究生于**清华大学**-交叉信息研究院(IIIS)-量子信息研究中心(CQI)
+
+#### 兴趣方向
+
+* 量子计算与量子通讯
+* 计算物理
+* 数字图像处理
+* 机器学习
+* 码代码
+* 吉他
+* 旅行
+* 摄影
+
+#### 仓库的功能
+
+* 工作成果的汇总
+* 学术资源的快速检索
+* 吉他谱和弦进行和歌词
+* 个人生活备忘
 
 ### 本站的一些固定页面
 
@@ -41,7 +84,7 @@ I'm interested in so many fields currently which include (surely, but not only i
 
 [学术资料](/my_pages/academic-resources)
 
-### 最近写的东西
+### 本站的一些最新文章
 
 <ul class="posts">
   {% for post in site.posts limit:5 %}
