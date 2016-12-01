@@ -81,7 +81,12 @@ Approximation Method: Variational Method / Strong Coupling Schrodinger Equation 
 > [Advanced Quantum Mechanics - Lecture Note 16](/assets/files/2016-11-20-Advanced-QM-16.pdf) 
 Approximation Method: Interaction Picture and Perturbation / Scattering: Green Function Approach
 
-> [Advanced Quantum Mechanics - Lecture Note 16](/assets/files/2016-11-24-Advanced-QM-17.pdf) 
+> [Advanced Quantum Mechanics - Lecture Note 17](/assets/files/2016-11-24-Advanced-QM-17.pdf) 
+Approximation Method: Born Series / Lippmann-Schwinger Equation / Optical Theorem
+
+> [Advanced Quantum Mechanics - Lecture Note 18](/assets/files/2016-12-01-Advanced-QM-18.pdf)
+
+> [Advanced Quantum Mechanics - Lecture Note 19](/assets/files/2016-12-01-Advanced-QM-19.pdf)
 
 ### Quantum Mechanics
 
