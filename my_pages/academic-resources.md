@@ -91,6 +91,10 @@ Approximation Method: Partial Wave
 Symmetry and Conservation: Conserved Observable / Symmetry / Identical Particles
 
 > [Advanced Quantum Mechanics - Lecture Note 20](/assets/files/2016-12-07-Advanced-QM-20.pdf)
+Symmetry and Conservation: More about Identical Particles
+
+> [Advanced Quantum Mechanics - Lecture Note 21](/assets/files/2016-12-07-Advanced-QM-21.pdf)
+Second Quantization: 
 
 ### Quantum Mechanics
 
