@@ -88,6 +88,8 @@ Approximation Method: Born Series / Lippmann-Schwinger Equation / Optical Theore
 
 > [Advanced Quantum Mechanics - Lecture Note 19](/assets/files/2016-12-01-Advanced-QM-19.pdf)
 
+> [Advanced Quantum Mechanics - Lecture Note 20](/assets/files/2016-12-01-Advanced-QM-20.pdf)
+
 ### Quantum Mechanics
 
 > [Exams in Nanjing University](/assets/files/2016-10-16-quantum-mechanics-exam.pdf)
