@@ -94,7 +94,10 @@ Symmetry and Conservation: Conserved Observable / Symmetry / Identical Particles
 Symmetry and Conservation: More about Identical Particles
 
 > [Advanced Quantum Mechanics - Lecture Note 21](/assets/files/2016-12-07-Advanced-QM-21.pdf)
-Second Quantization: 
+Second Quantization: Fock Space
+
+> [Advanced Quantum Mechanics - Lecture Note 22](/assets/files/2016-12-10-Advanced-QM-22.pdf)
+Second Quantization: Observables and Wave Functions
 
 ### Quantum Mechanics
 
