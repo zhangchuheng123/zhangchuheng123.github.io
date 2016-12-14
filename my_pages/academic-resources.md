@@ -99,6 +99,9 @@ Second Quantization: Fock Space
 > [Advanced Quantum Mechanics - Lecture Note 22](/assets/files/2016-12-10-Advanced-QM-22.pdf)
 Second Quantization: Observables and Wave Functions
 
+> [Advanced Quantum Mechanics - Lecture Note 23](/assets/files/2016-12-14-Advanced-QM-23.pdf)
+Second Quantization: 
+
 ### Quantum Mechanics
 
 > [Exams in Nanjing University](/assets/files/2016-10-16-quantum-mechanics-exam.pdf)
