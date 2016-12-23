@@ -10,3 +10,5 @@ Thumbs.db
 .rvmrc
 
 _old_site_storage/*
+
+*.sh
