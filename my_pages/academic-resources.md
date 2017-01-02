@@ -97,13 +97,13 @@ Symmetry and Conservation: More about Identical Particles
 Second Quantization: Fock Space
 
 > [Advanced Quantum Mechanics - Lecture Note 22](/assets/files/2016-12-10-Advanced-QM-22.pdf)
-Second Quantization: Observables and Wave Functions
+Second Quantization: Observables and Wave Functions / Quantum Dynamics and Second Quantization
 
 > [Advanced Quantum Mechanics - Lecture Note 23](/assets/files/2016-12-14-Advanced-QM-23.pdf)
-Second Quantization
+Second Quantization: Non-interacting Fermions/ Non-interacting Bosons/ Interacting Fermions
 
 > [Advanced Quantum Mechanics - Lecture Note 24](/assets/files/2016-12-26-Advanced-QM-24.pdf)
-Relativistic Quantum Mechanics
+Relativistic Quantum Mechanics: Klein-Gordon Equation / Dirac Equation / Dirac Equation in Two-component Form (Neutrino Case)
 
 > [Advanced Quantum Mechanics - Lecture Note 25](/assets/files/2016-12-26-Advanced-QM-25.pdf)
 Relativistic Quantum Mechanics
