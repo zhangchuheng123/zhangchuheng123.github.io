@@ -88,8 +88,6 @@ tagline: 学术 吉他 旅行 摄影 生活
 
 [SIL Fabrication]({% post_url /Experiment/2016-11-19-Experiment-SIL %})
 
-[吉他谱汇总]({% post_url /Guitar/2016-12-14-summary %})
-
 ### 本站的一些最新文章
 
 <ul class="posts">
