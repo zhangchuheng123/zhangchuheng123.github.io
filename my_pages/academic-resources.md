@@ -30,6 +30,8 @@ This is a copy from arXiv, you can also find it [here (http://arxiv.org/abs/1508
 
 > [J. J. Sakurai - Modern Quantum Mechanies Solution Manual](/assets/files/2016-10-17-Sakurai-Answer.pdf)
 
+> [Quantum Mechanics Summary](/assets/files/2017-01-06-QM-Summary.pdf)
+
 > [Advanced Quantum Mechanics - Lecture Note 0](/assets/files/2016-11-16-Advanced-QM-0.pdf) 
 About the course
 
