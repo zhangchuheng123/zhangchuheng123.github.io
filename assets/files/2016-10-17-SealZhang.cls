@@ -18,6 +18,7 @@
 	\renewcommand{\contentsname}{目录}%
 	\renewcommand{\today}{\number\year 年\number\month 月\number\day 日}%
 	\renewcommand\refname{参考文献}%
+	\renewcommand{\abstractname}{摘要}
 	\setlength{\parindent}{2em}}
 \DeclareOption{ENG}{\typeout{当前设定为英文}}
 \ExecuteOptions{ENG}
