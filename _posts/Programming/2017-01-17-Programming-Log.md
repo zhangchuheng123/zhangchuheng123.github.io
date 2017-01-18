@@ -39,4 +39,6 @@ tags: [Python, Programming]
 	
 	sudo -H pip2 install --ignore-installed wechat_sdk
 
-用github page（硬）编码了通讯录，然后再服务器端抓取写好的通讯录XML文件
+用github page（硬）编码了通讯录，然后再服务器端抓取写好的通讯录XML文件，XML文件使用matlab输出
+
+利用图灵机器人构建问答系统
