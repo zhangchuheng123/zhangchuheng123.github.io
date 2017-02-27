@@ -56,6 +56,7 @@
 		this.color = this.options.color;
 		this.previewTitle = this.options.previewTitle;
 		this.isActive = !this.options.inactive;
+		this.displayText = this.options.displayText;
 		this._layout();
 	}
 
@@ -80,7 +81,7 @@
 		*/
 		this.cube = document.createElement('div');
 		this.cube.className = this.isActive ? 'cube' : 'cube cube--inactive';
-		this.cube.innerHTML = '<div class="cube__side cube__side--back"></div><div class="cube__side cube__side--left"></div><div class="cube__side cube__side--right"></div><div class="cube__side cube__side--bottom"></div><div class="cube__side cube__side--top"></div><div class="cube__side cube__side--front"><div class="cube__number">' + (this.number+1) + '</div></div>';
+		this.cube.innerHTML = '<div class="cube__side cube__side--back"></div><div class="cube__side cube__side--left"></div><div class="cube__side cube__side--right"></div><div class="cube__side cube__side--bottom"></div><div class="cube__side cube__side--top"></div><div class="cube__side cube__side--front"><div class="cube__number">' + (this.number+1) + ' ' + (this.displayText) + '</div></div>';
 		this.currentTransform = {translateZ: 0, rotateX: 0, rotateY: 0};
 	};
 
@@ -183,7 +184,8 @@
 					number: pos,
 					color: d.getAttribute('data-bg-color') || '#f1f1f1',
 					previewTitle: d.getAttribute('data-title') || '',
-					inactive: d.hasAttribute('data-inactive')
+					inactive: d.hasAttribute('data-inactive'),
+					displayText: d.getAttribute('data-text') || ''
 				}),
 				content = contents[pos];
 
