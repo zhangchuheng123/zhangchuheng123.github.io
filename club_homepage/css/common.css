@@ -283,7 +283,7 @@ main {
 /* push to the right weekday (we have to push 3 boxes) */
 
 .js .cube:first-child {
-	margin-left: calc(((7vw + 1vw) * 0) + 0.5vw);
+	margin-left: 0.5vw;
 }
 
 .js .cube:not(.cube--inactive) {
@@ -526,10 +526,10 @@ main {
 
 @media screen and (max-width: 50.75em) {
 	.calendar {
-		padding: 3em calc((100vw - (7 * (14vw + 1vw)))/2);
+		padding: 3em calc((100vw - (5 * (14vw + 1vw)))/2);
 	}
 	.js .calendar {
-		padding: 0 calc((100vw - (7 * (12vw + 1vw)))/2) 5em;
+		padding: 0 calc((100vw - (5 * (12vw + 1vw)))/2) 5em;
 	}
 	.cube {
 		width: 12vw;
@@ -537,7 +537,7 @@ main {
 	}
 	/* push to the right weekday if in big view (we have to push 3 boxes) */
 	.js .cube:first-child {
-		margin-left: calc(((12vw + 1vw) * 3) + 0.5vw);
+		margin-left: 0.5vw;
 	}
 	.cube__side--front {
 		-webkit-transform: translateZ(6vw);
