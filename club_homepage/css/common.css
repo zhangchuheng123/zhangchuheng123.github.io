@@ -210,14 +210,14 @@ main {
 	margin: 0 auto;
 	overflow: hidden;
 	/* we always want 7 boxes in a row */
-	padding: 3em calc((100vw - (7 * (7vw + 1vw)))/2);
+	padding: 3em calc((100vw - (5 * (7vw + 1vw)))/2);
 }
 
 .js .calendar {
 	position: absolute;
 	-webkit-perspective: 1000px;
 	perspective: 1000px;
-	padding: 0 calc((100vw - (7 * (7vw + 1vw)))/2) 5em;
+	padding: 0 calc((100vw - (5 * (7vw + 1vw)))/2) 5em;
 }
 
 .no-js .calendar {
@@ -283,7 +283,7 @@ main {
 /* push to the right weekday (we have to push 3 boxes) */
 
 .js .cube:first-child {
-	margin-left: calc(((7vw + 1vw) * 3) + 0.5vw);
+	margin-left: calc(((7vw + 1vw) * 0) + 0.5vw);
 }
 
 .js .cube:not(.cube--inactive) {
