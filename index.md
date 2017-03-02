@@ -16,6 +16,7 @@ tagline: 学术 吉他 旅行 摄影 生活
 * Junior and Senior High School in **Chengdu Foreign Language School(CDFLS)**
 * Undergraduate in Department of Physics, **Nanjing University**
 * Graduate in Center of Quantum Information (CQI), Institute for Interdisciplinary Information Sciences (IIIS), **Tsinghua University**
+* [This](https://github.com/zhangchuheng123) is my Github homepage
 
 #### Fields of Interest
 
@@ -43,6 +44,7 @@ tagline: 学术 吉他 旅行 摄影 生活
 * 初高中就读于**成都外国语学校**
 * 本科就读于**南京大学**-物理学院
 * 博士研究生于**清华大学**-交叉信息研究院(IIIS)-量子信息研究中心(CQI)
+* [这里](https://github.com/zhangchuheng123) 是我的Github主页
 
 #### 兴趣方向
 
