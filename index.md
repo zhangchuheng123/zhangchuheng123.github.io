@@ -11,7 +11,7 @@ tagline: 学术 吉他 旅行 摄影 生活
 
 #### About Me
 
-* Born in **Jingzhou** - a historic and cultural city and a stronghold in histroy
+* Born in **Jingzhou** - a historic and cultural city and a stronghold in history
 * Moved to **Chengdu** at the age of ten
 * Junior and Senior High School in **Chengdu Foreign Language School(CDFLS)**
 * Undergraduate in Department of Physics, **Nanjing University**
