@@ -57,6 +57,7 @@
 		this.previewTitle = this.options.previewTitle;
 		this.isActive = !this.options.inactive;
 		this.displayText = this.options.displayText;
+		this.data_name = this.options.data_name;
 		this._layout();
 	}
 
