@@ -13,7 +13,7 @@ tags: [Academics, Physics, Experiment]
 1. [Piranha clean]({% post_url /Experiment/2016-11-23-Piranha-Clean %}) to remove oil
 1. [ICP]({% post_url /Experiment/2016-11-23-ICP %}) 30s to get a distinct surface peak (scanz) (program: ``diamond etch-1``, $$O_2$$ 7/$$Ar$$ 8, 120W/1000W)
 1. [Evaporate]({% post_url /Experiment/2016-11-23-Electron-beam-Evaporation-Deposition %}) Al 20nm 
-1. Marker imprinting by [FIB]({% post_url /Experiment/2016-11-23-FIB%})(fixed with Ag colloid, 110 °C bake 30min) (no 3-acid clean and ICP, markers will become difficult to distinguish after this operations)
+1. Marker imprinting by [FIB chipname and markers]({% post_url /Experiment/2017-03-24-FIB-chipname-makers %})(fixed with Ag colloid, 110 °C bake 30min) (no 3-acid clean and ICP, markers will become difficult to distinguish after this operations)
 1. Clean and remove Al (see [Clean after FIB]({% post_url /Experiment/2016-11-23-clean-after-FIB%}))
 1. NV location (see [NV location program](https://github.com/zhangchuheng123/NV_program))
 1. [Piranha clean]({% post_url /Experiment/2016-11-23-Piranha-Clean %})
