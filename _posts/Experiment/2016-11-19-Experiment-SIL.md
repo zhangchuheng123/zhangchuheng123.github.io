@@ -29,5 +29,6 @@ tags: [Academics, Physics, Experiment]
 1. [EBL]({% post_url /Experiment/2016-11-23-EBL %}), developing Lithography  (developing:  remove Al (using S1805 developer), DI water, N2, MIBK:IPA=1:3(PMMA developer)  1min, IPA  1min,  N2)
 1. [Plasma clean]({% post_url /Experiment/2016-11-23-plasma-clean %}) (program: ``PMMA clean`` 6min)
 1. [Evaporate]({% post_url /Experiment/2016-11-23-Electron-beam-Evaporation-Deposition %}) Ti60nm+Cr60nm+Au60nm
-1. Lift off: Soak in PG remover > 12h, then 85°C boil >30min, then lift off
+1. [Lift off]({% post_url /Experiment/2017-03-24-liftoff %})
+1. [ALD Anti-reflecting coating]({% post_url /Experiment/2017-03-24-ALD %})
 1. Fixed with cryogenic colloid, wire bonding
