@@ -65,9 +65,36 @@ $$
 \end{aligned}
 $$
 
-The complexity in total is $O((2w+1)DH+HC)$.
+The complexity in total is $O((2w+1)DHT+HCT)$, where $T$ is the number of words.
 
 \subsection{Programming}
+
+\section{RNN for NER}
+
+\subsection{Written Answer a.}
+
+\subsection{How many more parameters does the RNN model in comparison to the window-based model?}
+
+There's one more parameter $W_h \in \mathbb{R}^{H \tiems H}$. Besides, the parameter $W_x \in \mathbb{R}^{D \tiems H}$ instead of $\mathbb{R}^{(2w+1)D \tiems H}$.
+
+\subsection{What is the computational complexity of predicting labels for a sentence of length
+T (for the RNN model)?}
+
+$$
+\being{aligned}
+\bm{e}^{(t)} & \rightarrow O(D) \\
+\bm{h}^{(t)} & \rightarrow O(H^2 + HD + H) \\
+\bm{\hat{y}}^{(t)} & \rightarrow O(HC+C) 
+\end{aligned}
+$$
+
+The complexity in total is $O((H^2+HD+HC)T)$, where $T$ is corpus size.
+
+\subsection{Written Answer b.}
+
+\subsubsection{Inconsistency of CE and $F_1$}
+
+
 
 \section{Appendix}
 
