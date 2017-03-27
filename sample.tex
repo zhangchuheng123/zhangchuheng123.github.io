@@ -16,7 +16,58 @@ See details of Assignment \#3 \href{http://web.stanford.edu/class/cs224n/assignm
 
 \section{A Window into NER}
 
+\subsection{Written Answer a.}
 
+\subsubsection{Ambiguous Sentences}
+
+\begin{enumerate}
+\item \emph{Wilson announced a multi-year partnership with Junior Tennis Champions Center.} 
+
+Wilson could either be a person named Wilson, or a company.
+
+\item \emph{James likes shopping for clothes in Jack and Jones.}
+
+\emph{Jack and Jones} is easily misclassified to PER, though it is a ORG. 
+
+\end{enumerate}
+
+\subsubsection{Why might it be important to use features apart from the word itself to predict
+named entity labels?}
+
+Sometimes it is hard to distinguish what does the phrase mean simply from the phrase itself. As is shown in the previous answer, there might be ambiguities. We need to use context or casing to decide which class the named entity belongs to.
+
+\subsubsection{Describe at least two features (apart from the word) that would help in predicting
+whether a word is part of a named entity or not.}
+
+Casing and context (eg. relative verbs).
+
+\subsection{Written Answer b.}
+
+\subsubsection{Dimensions}
+
+Assuming the vectors are represented as row vector.
+
+$$
+\being{aligned}
+\bm{e}^{(t)} & \rightarrow 1 \times (2w+1)D \\
+W & \rightarrow (2w+1)D \times H \\
+U & \rightarrow H \times C 
+\end{aligned}
+$$
+
+\subsection{Computation Complexity}
+
+$$
+\being{aligned}
+\bm{e}^{(t)} & \rightarrow O((2w+1)D) \\
+\bm{h}^{(t)} & \rightarrow O((2w+1)DH + H) \\
+\bm{\hat{y}}^{(t)} & \rightarrow O(HC+C) 
+\end{aligned}
+$$
+
+The complexity in total is $O((2w+1)DH+HC)$.
+
+\subsection{Programming}
 
 \section{Appendix}
 
