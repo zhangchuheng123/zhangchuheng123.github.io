@@ -8,7 +8,7 @@ tags: [Academics, Physics, Experiment]
 {% include JB/setup %}
 
 # 目的
-Piranha Solution用于洗去油镜的油
+Piranha Solution用于洗去油镜的油、去除脏物
 
 # 简要步骤
 * 浓硫酸：双氧水（30%）=3:1 （1份5ml）

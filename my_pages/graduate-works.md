@@ -23,6 +23,10 @@ tagline: Works
 
 > [My Presentation on CQI Journal Club (PDF, Nov, 11, 2016)](/assets/files/2016-11-11-CQI-Journal-Club.pdf)
 
+> [My Presentation on Diamond Fabrication (PDF, Apr, 6, 2017)](/assets/files/2017-04-07-Fabrication-of-SIL.pdf)
+
+> [My Presentation on English Class - English Group Project (PDF, Apr, 7, 2017)](/assets/files/2017-04-07-English-Group.pdf)
+
 ### Documentations
 
 > [Tutorial for MATLAB Programming with COMSOL Livelink API (PDF, Chinese)](/assets/files/2016-11-05-MATLAB-with-COMSOL.pdf)
