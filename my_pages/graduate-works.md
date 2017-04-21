@@ -27,6 +27,8 @@ tagline: Works
 
 > [My Presentation on English Class - English Group Project (PDF, Apr, 7, 2017)](/assets/files/2017-04-07-English-Group.pdf)
 
+> [My Presentation on CQI Journal Club (PDF, Apr, 20, 2017)](/assets/files/2017-04-21-JournalClub.pdf)
+
 ### Documentations
 
 > [Tutorial for MATLAB Programming with COMSOL Livelink API (PDF, Chinese)](/assets/files/2016-11-05-MATLAB-with-COMSOL.pdf)
