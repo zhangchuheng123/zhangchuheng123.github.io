@@ -5,7 +5,7 @@ tagline: 学术 吉他 旅行 摄影 生活
 ---
 {% include JB/setup %}
 
-![](/assets/images/2016-11-26-homepage.jpg)
+![](assets/images/2016-11-26-homepage.jpg)
 
 ### Welcome to My Warehouse!
 
@@ -88,6 +88,8 @@ tagline: 学术 吉他 旅行 摄影 生活
 [学术资料](/my_pages/academic-resources)
 
 #### 快速通道
+
+[量化投资入门简介](http://sealzhang.tk/iQuant/)
 
 [SIL Fabrication]({% post_url /Experiment/2016-11-19-Experiment-SIL %})
 
