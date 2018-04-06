@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "【CS】Introduction to Reinforcement Learning"
+title: "【CS】Algorithm Problem Set"
 description: ""
 category: CS
-tags: [Algorithms, RL]
+tags: [Algorithms]
 ---
 {% include JB/setup %}
 
