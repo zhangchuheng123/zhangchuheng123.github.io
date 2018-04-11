@@ -20,11 +20,11 @@ Undergraduate level theoretical machine learning problems.
 1. 一元线性回归模型$f(x) = w^T x + b$，通过最小化均方误差推导参数的闭式解
 2. 多元线性回归模型$f(X) = W^T X$，通过最小化均方误差推导参数的闭式解
 2. 证明对线性回归模型做牛顿法的更新可以得到其最优解
-3. 线性回归的概率模型$y|x,w \sim \mathcal{N}(wx, \sigma^2)$，通过最大化似然函数求闭式解
+3. 线性回归的概率模型$y\|x,w \sim \mathcal{N}(wx, \sigma^2)$，通过最大化似然函数求闭式解
 
 ## 3. Logistic Regression
 
-1. 假设$\ln \dfrac{p(y=1|x)}{p(y=0|x)} = w^T x + b$，写出在一个数据集上的log-likelihood function
+1. 假设$\ln \dfrac{p(y=1\|x)}{p(y=0\|x)} = w^T x + b$，写出在一个数据集上的log-likelihood function
 2. 通过最大化likelihood function来推导其梯度下降算法的公式
 
 ## 4. Decision Tree
@@ -56,7 +56,7 @@ Undergraduate level theoretical machine learning problems.
 
 ## 9. EM Algorithm
 
-1. 通过对$J(c, \mu) = \sum_{i=1}^N ||x^{(i)} - \mu_{c^{(i)}}||^2$做coordinate descent，推导k-mean参数更新公式
+1. 通过对$J(c, \mu) = \sum\_{i=1}^N \|\|x^{(i)} - \mu\_{c^{(i)}}\|\|^2$做coordinate descent，推导k-mean参数更新公式
 1. 推导Gaussian mixture model的EM算法迭代公式；GMM与k-means有什么关系？
 2. 推导一般问题的EM算法迭代公式
 3. 证明EM算法的收敛性
@@ -64,7 +64,7 @@ Undergraduate level theoretical machine learning problems.
 ## 10. Ensemble
 
 1. 证明相互独立的N个分类器进行majority voting，错误率随N指数下降（Hoeffding不等式）
-2. 【AdaBoost】简述什么是additive model；通过最小化指数损失函数$L = \mathbb{E}_{x\sim D}[e^{-y f(x)}]$推导AdaBoost的样本权重更新公式
+2. 【AdaBoost】简述什么是additive model；通过最小化指数损失函数$L = \mathbb{E}\_{x\sim D}[e^{-y f(x)}]$推导AdaBoost的样本权重更新公式
 3. 证明bagging能够减小variance；简述随机森林模型
 
 ## 11. Clustering
@@ -106,8 +106,8 @@ Undergraduate level theoretical machine learning problems.
 $$
 \begin{aligned}
 y & \sim Bernoulli(\Phi) = p(y) = \Phi^y (1-\Phi)^{1-y} \\
-x|y=0 & \sim N(\mu_0, \Sigma) = \dfrac{1}{(2\pi)^{n/2} |\Sigma|^{1/2}} \exp(-\dfrac{1}{2}(x-\mu_0)^T \Sigma^{-1} (x-\mu_0)) \\
-x|y=1 & \sim N(\mu_1, \Sigma)
+x\|y=0 & \sim N(\mu\_0, \Sigma) = \dfrac{1}{(2\pi)^{n/2} \|\Sigma\|^{1/2}} \exp(-\dfrac{1}{2}(x-\mu\_0)^T \Sigma^{-1} (x-\mu\_0)) \\
+x\|y=1 & \sim N(\mu\_1, \Sigma)
 \end{aligned}
 $$
 
