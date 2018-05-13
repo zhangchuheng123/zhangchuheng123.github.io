@@ -29,6 +29,8 @@ tagline: Works
 
 > [My Presentation on CQI Journal Club (PDF, Apr, 20, 2017)](/assets/files/2017-04-21-JournalClub.pdf)
 
+> [My Presentation on SRT Reading Group on FinTech (PDF, May, 12, 2018)](/assets/files/2018-05-12-SFM.pdf)
+
 ### Documentations
 
 > [Tutorial for MATLAB Programming with COMSOL Livelink API (PDF, Chinese)](/assets/files/2016-11-05-MATLAB-with-COMSOL.pdf)
