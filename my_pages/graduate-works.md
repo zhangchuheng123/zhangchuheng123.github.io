@@ -38,6 +38,8 @@ tagline: Works
 
 > [My Presentation on CUHK-THU Event about Cryptocurrency Trading Strategies (PDF, May, 28, 2018)](/assets/files/2018-05-28-BitcoinStrategy.pdf)
 
+> [My Poster for Turning AI Institute of Nanjing (PDF, Jun, 21, 2018)](/assets/files/2018-06-21-poster.pdf)
+
 ### Documentations
 
 > [Tutorial for MATLAB Programming with COMSOL Livelink API (PDF, Chinese)](/assets/files/2016-11-05-MATLAB-with-COMSOL.pdf)
