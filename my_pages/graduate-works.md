@@ -32,9 +32,13 @@ tagline: Works
 
 > [My Presentation on CQI Journal Club (PDF, Apr, 20, 2017)](/assets/files/2017-04-21-JournalClub.pdf)
 
+> [My Presentation on Reinforcement Learning Seminar: Eligibility Traces (PDF, Dec, 13, 2017)](/assets/files/2017-12-13-eligibility-traces.pdf) I used CS294 slides 
+
+> [My Presentation on Reinforcement Learning Seminar: RL Applications and Case Studies (PDF, Jan, 19, 2018)](/assets/files/2018-01-19-RL-application.pdf)
+
 > [My Presentation on SRT Reading Group on FinTech (PDF, May, 12, 2018)](/assets/files/2018-05-12-SFM.pdf)
 
-> [My Presentation on Reinforcement Learning Seminar (PDF, May, 25, 2018)](/assets/files/2018-05-25-DDPG.pdf)
+> [My Presentation on Reinforcement Learning Seminar: DPG and DDPG (PDF, May, 25, 2018)](/assets/files/2018-05-25-DDPG.pdf)
 
 > [My Presentation on CUHK-THU Event about Cryptocurrency Trading Strategies (PDF, May, 28, 2018)](/assets/files/2018-05-28-BitcoinStrategy.pdf)
 
