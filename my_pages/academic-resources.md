@@ -5,7 +5,35 @@ tagline: Resources
 ---
 {% include JB/setup %}
 
-NOTICE: The resources are for the convenience of academic use. Others should not download or read the resources without permission of authors. If there's infringement of copyright, relevant contents will be remove after informing.
+DISCLAIMER: The resources are for the convenience of personal use. Others should not download or read the resources without permission of authors. If there's infringement of copyright, relevant contents will be remove after informing.
+
+### Advanced Theoretical Computer Science
+
+The course homepage is [here](http://iiis.tsinghua.edu.cn/~jianli/courses/ATCS2018spring/ATCS-2018s.htm)
+
+> [Lecture Note 1](/assets/files/2018-07-18-ATCS_lecture_note1.pdf)
+
+> [Lecture Note 2](/assets/files/2018-07-18-ATCS_lecture_note2.pdf)
+
+> [Lecture Note 3](/assets/files/2018-07-18-ATCS_lecture_note3.pdf)
+
+> [Lecture Note 4](/assets/files/2018-07-18-ATCS_lecture_note4.pdf)
+
+> [Lecture Note 6](/assets/files/2018-07-18-ATCS_lecture_note6.pdf)
+
+> [Lecture Note 7](/assets/files/2018-07-18-ATCS_lecture_note7.pdf)
+
+> [Lecture Note 9](/assets/files/2018-07-18-ATCS_lecture_note9.pdf)
+
+> [Lecture Note 10](/assets/files/2018-07-18-ATCS_lecture_note10.pdf)
+
+> [Lecture Note 11](/assets/files/2018-07-18-ATCS_lecture_note11.pdf)
+
+> [Lecture Note 12](/assets/files/2018-07-18-ATCS_lecture_note12.pdf)
+
+> [Lecture Note 13](/assets/files/2018-07-18-ATCS_lecture_note13.pdf)
+
+> [Lecture Note 14](/assets/files/2018-07-18-ATCS_lecture_note14.pdf)
 
 ### Quantum Entanglement and Quantum Error Correction
 
