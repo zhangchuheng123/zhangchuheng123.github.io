@@ -12,28 +12,58 @@ DISCLAIMER: The resources are for the convenience of personal use. Others should
 The course homepage is [here](http://iiis.tsinghua.edu.cn/~jianli/courses/ATCS2018spring/ATCS-2018s.htm)
 
 > [Lecture Note 1](/assets/files/2018-07-18-ATCS_lecture_note1.pdf)
+Addictive Model: AdaBoost and GDBT
 
 > [Lecture Note 2](/assets/files/2018-07-18-ATCS_lecture_note2.pdf)
+Multiplicative Weight and Its Application to Zero-sum Game, Online Gradient Descent, Universal Portfolio Algorithm
 
 > [Lecture Note 3](/assets/files/2018-07-18-ATCS_lecture_note3.pdf)
+Thomas Cover's Universal Portfolios, Application of Online Learning to Supervised Learning, Duel Norm and Fenchel Conjugate
 
 > [Lecture Note 4](/assets/files/2018-07-18-ATCS_lecture_note4.pdf)
+Online Mirror Descent, Multi-armed  Bandit Problem
 
 > [Lecture Note 6](/assets/files/2018-07-18-ATCS_lecture_note6.pdf)
+Topic Model and Word Embedding
 
 > [Lecture Note 7](/assets/files/2018-07-18-ATCS_lecture_note7.pdf)
+Skip-gram with Negative Sampling, Word Embedding as Matrix Factorization
 
 > [Lecture Note 9](/assets/files/2018-07-18-ATCS_lecture_note9.pdf)
+Attention, Normalization, Transfer Learning and Multi-task Learning (see slides for details), Generalization
 
 > [Lecture Note 10](/assets/files/2018-07-18-ATCS_lecture_note10.pdf)
+Stability Bound for Stochastic Gradient Method, Langevin Dynamics
 
 > [Lecture Note 11](/assets/files/2018-07-18-ATCS_lecture_note11.pdf)
+Convergence of GD and SGC, Stochastic Variance Reduced Gradient (SVRG)
 
 > [Lecture Note 12](/assets/files/2018-07-18-ATCS_lecture_note12.pdf)
+Heavy Ball Method, Lower Bound of First Order Methods, Nesterov's Acceleration
 
 > [Lecture Note 13](/assets/files/2018-07-18-ATCS_lecture_note13.pdf)
+Reinforcement Learning: LP-Solution, Modified Policy Iteration, State and Action Value Function Estimation Algorithms
 
 > [Lecture Note 14](/assets/files/2018-07-18-ATCS_lecture_note14.pdf)
+Reinforcement Learning: Policy Gradient, Variance Reduction by Baseline, Actor-Critic Method
+
+> [Silde: GDBT](/assets/files/2018-07-18-ATCS_GDBT.pdf)
+
+> [Silde: Deep Learning Basics](/assets/files/2018-07-18-ATCS_DL1.pdf)
+
+> [Silde: Deep Learning CNN](/assets/files/2018-07-18-ATCS_DL2-CNN.pdf)
+
+> [Silde: Deep Learning RNN](/assets/files/2018-07-18-ATCS_DL3-RNN.pdf)
+
+> [Silde: Deep Learning Embedding](/assets/files/2018-07-18-ATCS_DL6-embedding.pdf)
+
+> [Silde: Deep Learning Attention 1](/assets/files/2018-07-18-ATCS_DL7-attentions.pdf)
+
+> [Silde: Deep Learning Attention 2](/assets/files/2018-07-18-ATCS_DL7-attentions2.pdf)
+
+> [Silde: Deep Learning Normalization](/assets/files/2018-07-18-ATCS_DL9-normalization.pdf)
+
+> [Silde: Deep Learning Transfer Learning and Multi-task Learning](/assets/files/2018-07-18-ATCS_DL10-multi-task-learning.pdf)
 
 ### Quantum Entanglement and Quantum Error Correction
 
