@@ -338,7 +338,7 @@ Interaction between Charged Particle and Electromagnetic Field
 
 ### Quantum Electronics
 
-> [Warren Nagourney - Quantum Electronics for Atomic Physics](/assets/files/2016-11-24-Warren-Nagourney-Quantum-Electronics-for-Atomic-Physics.pdf)
+> [Warren Nagourney - Quantum Electronics for Atomic Physics (removed)]()
 
 ### Theory of Marxism
 
