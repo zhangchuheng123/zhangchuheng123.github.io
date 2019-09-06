@@ -84,7 +84,7 @@ This is a copy from arXiv, you can also find it [here (http://arxiv.org/abs/1508
 
 ### Advanced Quantum Mechanics
 
-> [J. J. Sakurai - Modern Quantum Mechanies](/assets/files/2016-10-17-Sakurai.pdf)
+> [J. J. Sakurai - Modern Quantum Mechanies (disabled)]()
 
 > [J. J. Sakurai - Modern Quantum Mechanies Solution Manual](/assets/files/2016-10-17-Sakurai-Answer.pdf)
 
